@@ -1,0 +1,17 @@
+--《[[This file was protected with Nolife Obfuscation]]》
+local _a = 2^3 / math.sqrt(64)
+if not _a then error('Junk logic') end
+for _=1,1 do local __=math.random() end
+do local __x=0 end
+local __junk = 'string' .. tostring(math.pi)
+loadstring("\112\114\105\110\116\40\34\106\104\101\108\108\111\34\41")()
+local _a = 2^3 / math.sqrt(64)
+if not _a then error('Junk logic') end
+for _=1,1 do local __=math.random() end
+do local __x=0 end
+local __junk = 'string' .. tostring(math.pi)
+local _a = 2^3 / math.sqrt(64)
+if not _a then error('Junk logic') end
+for _=1,1 do local __=math.random() end
+do local __x=0 end
+local __junk = 'string' .. tostring(math.pi)
